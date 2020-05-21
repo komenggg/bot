@@ -1,0 +1,2 @@
+# bot
+help bantu tolong
